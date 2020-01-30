@@ -1,5 +1,3 @@
-connection: "zendesk_data"
-
 # include all the views
 include: "*.view"
 
